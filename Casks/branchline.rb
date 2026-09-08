@@ -1,8 +1,8 @@
 cask "branchline" do
-  version "0.1.0,5"
-  sha256 "80f14bef6dcf93908b6e361238d16a17cf3b1042cbc43f837b4dacb36b8dd17b"
+  version "0.2.0,6"
+  sha256 "5f85f157ff9b7c59d818b50a360af247d779e248e6b077b7c83df7641aeb6304"
 
-  url "https://github.com/ahmet12/branchline-releases/releases/download/v0.1.0/Branchline-0.1.0-5.dmg"
+  url "https://github.com/ahmet12/branchline-releases/releases/download/v0.2.0/Branchline-0.2.0-6.dmg"
   name "Branchline"
   desc "Native Git client for macOS by Kylindravia"
   homepage "https://github.com/ahmet12/branchline-releases"
